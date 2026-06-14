@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Felipe Henriquez
 
 🎯 **Desarrollador Full Stack Trainee**  
-📍 Quilicura, Santiago de Chile  
+📍 Santiago, Chile  
 📬 felipe.daniel.henriquez@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/felipe-henriquez) | [Portafolio](https://felipehenriquez.vercel.app) | [GitHub](https://github.com/FelipeDanielH)
 
